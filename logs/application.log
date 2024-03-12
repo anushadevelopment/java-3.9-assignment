@@ -1,0 +1,533 @@
+2024-03-11T15:35:22.355+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T15:35:22.357+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T15:35:22.420+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T15:35:22.420+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T15:35:23.373+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T15:35:23.392+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T15:35:23.393+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T15:35:23.444+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T15:35:23.444+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1023 ms
+2024-03-11T15:35:23.842+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T15:35:23.894+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T15:35:23.929+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 2.064 seconds (process running for 2.53)
+2024-03-11T16:03:28.555+08:00  INFO 29965 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-03-11T16:03:28.783+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:03:28.784+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:03:28.784+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:03:28.876+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:03:28.877+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:03:29.154+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:03:29.156+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:03:29.156+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:03:29.179+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:03:29.180+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 296 ms
+2024-03-11T16:03:29.277+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:03:29.286+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:03:29.291+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.499 seconds (process running for 1278.975)
+2024-03-11T16:03:29.294+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:25:04.015+08:00  INFO 29965 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:25:04.145+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:25:04.145+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:25:04.146+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:25:04.192+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:25:04.196+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:25:04.413+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:25:04.414+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:25:04.414+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:25:04.426+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:25:04.427+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 220 ms
+2024-03-11T16:25:04.495+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:25:04.500+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:25:04.505+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.355 seconds (process running for 1936.297)
+2024-03-11T16:25:04.506+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:25:53.183+08:00  INFO 29965 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:25:53.214+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:25:53.214+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:25:53.215+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:25:53.245+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:25:53.246+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:25:53.418+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:25:53.419+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:25:53.419+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:25:53.428+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:25:53.428+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 179 ms
+2024-03-11T16:25:53.493+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:25:53.499+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:25:53.504+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.285 seconds (process running for 1985.296)
+2024-03-11T16:25:53.506+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:26:04.354+08:00  INFO 29965 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-11T16:26:04.356+08:00  INFO 29965 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-11T16:26:04.358+08:00  INFO 29965 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-11T16:26:04.403+08:00 ERROR 29965 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "sg.edu.ntu.springintro.SampleItem.setId(int)" because "this.item" is null] with root cause
+
+java.lang.NullPointerException: Cannot invoke "sg.edu.ntu.springintro.SampleItem.setId(int)" because "this.item" is null
+	at sg.edu.ntu.springintro.SampleController.getItem(SampleController.java:61) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:259) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:192) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:920) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2024-03-11T16:26:23.081+08:00  INFO 29965 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:26:23.161+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:26:23.161+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:26:23.161+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:26:23.202+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:26:23.202+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:26:23.421+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:26:23.423+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:26:23.424+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:26:23.439+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:26:23.439+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 234 ms
+2024-03-11T16:26:23.454+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:26:23.456+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:26:23.477+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:26:23.552+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:26:49.083+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:26:49.084+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:26:49.084+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:26:49.106+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:26:49.107+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:26:49.241+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:26:49.243+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:26:49.244+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:26:49.252+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:26:49.253+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 144 ms
+2024-03-11T16:26:49.259+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:26:49.259+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:26:49.264+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:26:49.267+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:37:38.654+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:37:38.660+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:37:38.660+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:37:38.717+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 29965 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:37:38.718+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:37:38.898+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:37:38.899+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:37:38.900+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:37:38.913+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:37:38.913+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 191 ms
+2024-03-11T16:37:38.921+08:00  WARN 29965 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:37:38.922+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:37:38.929+08:00  INFO 29965 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:37:38.933+08:00 ERROR 29965 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:37:55.570+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 55039 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:37:55.573+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:37:55.664+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:37:55.665+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:37:56.555+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:37:56.570+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:37:56.571+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:37:56.619+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:37:56.620+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 954 ms
+2024-03-11T16:37:56.719+08:00  WARN 55039 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:37:56.722+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:37:56.737+08:00  INFO 55039 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:37:56.761+08:00 ERROR 55039 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:43:03.509+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 58184 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:43:03.512+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:43:03.583+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:43:03.583+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:43:04.492+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:43:04.508+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:43:04.509+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:43:04.557+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:43:04.558+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 973 ms
+2024-03-11T16:43:04.621+08:00  WARN 58184 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:43:04.624+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:43:04.641+08:00  INFO 58184 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:43:04.668+08:00 ERROR 58184 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:44:15.152+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 58881 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:44:15.155+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:44:15.208+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:44:15.208+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:44:16.124+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:44:16.158+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:44:16.178+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:44:16.235+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:44:16.236+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1026 ms
+2024-03-11T16:44:16.296+08:00  WARN 58881 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:44:16.299+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:44:16.315+08:00  INFO 58881 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:44:16.343+08:00 ERROR 58881 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:49:35.770+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 62111 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:49:35.772+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:49:35.831+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:49:35.832+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:49:36.816+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:49:36.832+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:49:36.833+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:49:36.884+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:49:36.884+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1051 ms
+2024-03-11T16:49:36.946+08:00  WARN 62111 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:49:36.949+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:49:36.965+08:00  INFO 62111 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:49:36.992+08:00 ERROR 62111 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:50:55.761+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 62997 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:50:55.764+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:50:55.817+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:50:55.818+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:50:56.692+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:50:56.708+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:50:56.708+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:50:56.758+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:50:56.759+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 941 ms
+2024-03-11T16:50:56.820+08:00  WARN 62997 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:50:56.822+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:50:56.837+08:00  INFO 62997 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:50:56.864+08:00 ERROR 62997 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:52:18.360+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 63902 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:52:18.362+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:52:18.419+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:52:18.419+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:52:19.503+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:52:19.530+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:52:19.548+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:52:19.628+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:52:19.629+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1209 ms
+2024-03-11T16:52:19.692+08:00  WARN 63902 --- [Demo Spring Intro] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item': No qualifying bean of type 'sg.edu.ntu.springintro.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-03-11T16:52:19.696+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-11T16:52:19.712+08:00  INFO 63902 --- [Demo Spring Intro] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-11T16:52:19.745+08:00 ERROR 63902 --- [Demo Spring Intro] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.edu.ntu.springintro.SampleController required a bean of type 'sg.edu.ntu.springintro.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.edu.ntu.springintro.SampleItem' in your configuration.
+
+2024-03-11T16:54:39.683+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:54:39.686+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:54:39.744+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11T16:54:39.745+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11T16:54:40.756+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:54:40.774+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:54:40.774+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:54:40.828+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:54:40.829+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1083 ms
+2024-03-11T16:54:41.236+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:54:41.266+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:54:41.277+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 2.057 seconds (process running for 2.525)
+2024-03-11T16:54:49.960+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-11T16:54:49.961+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-11T16:54:49.962+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-11T16:55:14.865+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:55:14.915+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:55:14.916+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:55:14.916+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:55:14.947+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:55:14.947+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:55:15.123+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:55:15.124+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:55:15.124+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:55:15.137+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:55:15.137+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 188 ms
+2024-03-11T16:55:15.288+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:55:15.301+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:55:15.309+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.39 seconds (process running for 36.558)
+2024-03-11T16:55:15.313+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:55:16.474+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-11T16:55:16.474+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-11T16:55:16.475+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-11T16:57:11.439+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:57:11.494+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:57:11.494+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:57:11.495+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:57:11.525+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:57:11.526+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:57:11.741+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:57:11.742+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:57:11.743+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:57:11.757+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:57:11.757+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 229 ms
+2024-03-11T16:57:11.829+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:57:11.835+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:57:11.840+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.341 seconds (process running for 153.089)
+2024-03-11T16:57:11.842+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:57:23.307+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:57:23.354+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:57:23.365+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:57:23.365+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:57:23.393+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:57:23.393+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:57:23.547+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:57:23.548+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:57:23.548+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:57:23.560+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:57:23.560+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 165 ms
+2024-03-11T16:57:23.625+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:57:23.631+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:57:23.636+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.267 seconds (process running for 164.884)
+2024-03-11T16:57:23.638+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T16:58:56.657+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T16:58:56.706+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T16:58:56.706+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T16:58:56.706+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T16:58:56.734+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T16:58:56.734+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T16:58:57.067+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T16:58:57.086+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T16:58:57.106+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T16:58:57.123+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T16:58:57.123+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 387 ms
+2024-03-11T16:58:57.203+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T16:58:57.209+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T16:58:57.213+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.504 seconds (process running for 258.461)
+2024-03-11T16:58:57.215+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T17:00:41.198+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T17:00:41.233+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T17:00:41.234+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T17:00:41.234+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T17:00:41.259+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T17:00:41.260+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T17:00:41.410+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T17:00:41.411+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T17:00:41.412+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T17:00:41.420+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T17:00:41.421+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 159 ms
+2024-03-11T17:00:41.481+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T17:00:41.487+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T17:00:41.492+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.254 seconds (process running for 362.741)
+2024-03-11T17:00:41.494+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T17:00:54.977+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T17:00:55.015+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T17:00:55.015+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T17:00:55.016+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T17:00:55.046+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T17:00:55.063+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T17:00:55.197+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T17:00:55.198+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T17:00:55.198+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T17:00:55.206+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T17:00:55.206+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 141 ms
+2024-03-11T17:00:55.266+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T17:00:55.275+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T17:00:55.279+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.26 seconds (process running for 376.528)
+2024-03-11T17:00:55.281+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T17:01:04.720+08:00  INFO 65392 --- [Demo Spring Intro] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11T17:01:04.762+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication
+2024-03-11T17:01:04.762+08:00  WARN 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Test warning
+2024-03-11T17:01:04.762+08:00 ERROR 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Error Warning
+2024-03-11T17:01:04.808+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Starting SpringIntroApplication using Java 17.0.8 with PID 65392 (/Users/muthu/SCTP-NTU/MavenProject/spring-intro/target/classes started by muthu in /Users/muthu/SCTP-NTU/MavenProject/spring-intro)
+2024-03-11T17:01:04.808+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-03-11T17:01:05.038+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-11T17:01:05.039+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-11T17:01:05.039+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-11T17:01:05.047+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-11T17:01:05.047+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 237 ms
+2024-03-11T17:01:05.117+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-11T17:01:05.123+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-11T17:01:05.128+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] s.e.n.s.SpringIntroApplication           : Started SpringIntroApplication in 0.362 seconds (process running for 386.377)
+2024-03-11T17:01:05.131+08:00  INFO 65392 --- [Demo Spring Intro] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-11T17:01:12.472+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-11T17:01:12.473+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-11T17:01:12.474+08:00  INFO 65392 --- [Demo Spring Intro] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
